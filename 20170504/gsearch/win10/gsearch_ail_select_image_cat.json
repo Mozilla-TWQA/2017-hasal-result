@@ -1,0 +1,822 @@
+{
+  "test_firefox_gsearch_ail_select_image_cat": {
+    "total_time": 3311.111111111106, 
+    "time_list": [
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493888694", 
+        "time_sequence": [], 
+        "run_time": 100.0
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493898156", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493898438", 
+        "time_sequence": [], 
+        "run_time": 111.11111111111677
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493898738", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493899022", 
+        "time_sequence": [], 
+        "run_time": 88.88888888888687
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493899299", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493899587", 
+        "time_sequence": [], 
+        "run_time": 144.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493899880", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493900132", 
+        "time_sequence": [], 
+        "run_time": 211.1111111111095
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493900392", 
+        "time_sequence": [], 
+        "run_time": 88.88888888888687
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493900695", 
+        "time_sequence": [], 
+        "run_time": 122.22222222222263
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493900958", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493901214", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493901479", 
+        "time_sequence": [], 
+        "run_time": 88.8888888888905
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493901731", 
+        "time_sequence": [], 
+        "run_time": 88.88888888888687
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493901988", 
+        "time_sequence": [], 
+        "run_time": 155.55555555556202
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493902223", 
+        "time_sequence": [], 
+        "run_time": 111.1111111111095
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493902451", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493902679", 
+        "time_sequence": [], 
+        "run_time": 88.8888888888905
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493902889", 
+        "time_sequence": [], 
+        "run_time": 144.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493903108", 
+        "time_sequence": [], 
+        "run_time": 133.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493903330", 
+        "time_sequence": [], 
+        "run_time": 122.22222222222263
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493903551", 
+        "time_sequence": [], 
+        "run_time": 200.0
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493903777", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493904002", 
+        "time_sequence": [], 
+        "run_time": 122.22222222222263
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493904227", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493904452", 
+        "time_sequence": [], 
+        "run_time": 100.0
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493904675", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493904896", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_gsearch_ail_select_image_cat_1493905119", 
+        "time_sequence": [], 
+        "run_time": 100.0
+      }
+    ], 
+    "avg_time": 110.3703703703702, 
+    "description": null, 
+    "outlier": [], 
+    "med_time": 100.0, 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493888694\\image_02693.bmp", 
+        "time_seq": 29922.222222222223
+      }, 
+      {
+        "time_seq": 30022.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493888694\\image_02702.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898156\\image_02950.bmp", 
+        "time_seq": 32777.77777777778
+      }, 
+      {
+        "time_seq": 32944.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898156\\image_02965.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898438\\image_03431.bmp", 
+        "time_seq": 38122.22222222222
+      }, 
+      {
+        "time_seq": 38233.333333333336, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898438\\image_03441.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898738\\image_02537.bmp", 
+        "time_seq": 28188.88888888889
+      }, 
+      {
+        "time_seq": 28255.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493898738\\image_02543.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899022\\image_02623.bmp", 
+        "time_seq": 29144.444444444445
+      }, 
+      {
+        "time_seq": 29233.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899022\\image_02631.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899299\\image_02627.bmp", 
+        "time_seq": 29188.88888888889
+      }, 
+      {
+        "time_seq": 29266.666666666668, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899299\\image_02634.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899587\\image_02725.bmp", 
+        "time_seq": 30277.777777777777
+      }, 
+      {
+        "time_seq": 30422.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899587\\image_02738.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899880\\image_02634.bmp", 
+        "time_seq": 29266.666666666668
+      }, 
+      {
+        "time_seq": 29333.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493899880\\image_02640.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900132\\image_02697.bmp", 
+        "time_seq": 29966.666666666668
+      }, 
+      {
+        "time_seq": 30177.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900132\\image_02716.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900392\\image_02576.bmp", 
+        "time_seq": 28622.222222222223
+      }, 
+      {
+        "time_seq": 28711.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900392\\image_02584.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900695\\image_02617.bmp", 
+        "time_seq": 29077.777777777777
+      }, 
+      {
+        "time_seq": 29200.0, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900695\\image_02628.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900958\\image_02681.bmp", 
+        "time_seq": 29788.88888888889
+      }, 
+      {
+        "time_seq": 29866.666666666668, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493900958\\image_02688.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901214\\image_02615.bmp", 
+        "time_seq": 29055.555555555555
+      }, 
+      {
+        "time_seq": 29222.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901214\\image_02630.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901479\\image_02543.bmp", 
+        "time_seq": 28255.555555555555
+      }, 
+      {
+        "time_seq": 28344.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901479\\image_02551.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901731\\image_02621.bmp", 
+        "time_seq": 29122.222222222223
+      }, 
+      {
+        "time_seq": 29211.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901731\\image_02629.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901988\\image_03035.bmp", 
+        "time_seq": 33722.22222222222
+      }, 
+      {
+        "time_seq": 33877.77777777778, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493901988\\image_03049.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902223\\image_02720.bmp", 
+        "time_seq": 30222.222222222223
+      }, 
+      {
+        "time_seq": 30333.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902223\\image_02730.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902451\\image_03311.bmp", 
+        "time_seq": 36788.88888888889
+      }, 
+      {
+        "time_seq": 36855.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902451\\image_03317.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902679\\image_02613.bmp", 
+        "time_seq": 29033.333333333332
+      }, 
+      {
+        "time_seq": 29122.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902679\\image_02621.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902889\\image_02701.bmp", 
+        "time_seq": 30011.11111111111
+      }, 
+      {
+        "time_seq": 30155.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493902889\\image_02714.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903108\\image_02693.bmp", 
+        "time_seq": 29922.222222222223
+      }, 
+      {
+        "time_seq": 30055.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903108\\image_02705.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903330\\image_02704.bmp", 
+        "time_seq": 30044.444444444445
+      }, 
+      {
+        "time_seq": 30166.666666666668, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903330\\image_02715.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903551\\image_02757.bmp", 
+        "time_seq": 30633.333333333332
+      }, 
+      {
+        "time_seq": 30833.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903551\\image_02775.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903777\\image_02625.bmp", 
+        "time_seq": 29166.666666666668
+      }, 
+      {
+        "time_seq": 29233.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493903777\\image_02631.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904002\\image_02712.bmp", 
+        "time_seq": 30133.333333333332
+      }, 
+      {
+        "time_seq": 30255.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904002\\image_02723.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904227\\image_02635.bmp", 
+        "time_seq": 29277.777777777777
+      }, 
+      {
+        "time_seq": 29355.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904227\\image_02642.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904452\\image_02712.bmp", 
+        "time_seq": 30133.333333333332
+      }, 
+      {
+        "time_seq": 30233.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904452\\image_02721.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904675\\image_02632.bmp", 
+        "time_seq": 29244.444444444445
+      }, 
+      {
+        "time_seq": 29322.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904675\\image_02639.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904896\\image_02698.bmp", 
+        "time_seq": 29977.777777777777
+      }, 
+      {
+        "time_seq": 30055.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493904896\\image_02705.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493905119\\image_02693.bmp", 
+        "time_seq": 29922.222222222223
+      }, 
+      {
+        "time_seq": 30022.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_firefox_gsearch_ail_select_image_cat_1493905119\\image_02702.bmp"
+      }
+    ], 
+    "min_time": 66.66666666666424, 
+    "total_run_no": 30, 
+    "std_dev": 38.90828440494544, 
+    "web_app_name": "gsearch", 
+    "max_time": 211.1111111111095, 
+    "error_no": 0, 
+    "pkg_platform": "", 
+    "video_fp": "C:\\Users\\user\\hasal\\output\\videos\\test_firefox_gsearch_ail_select_image_cat_1493905119.mkv", 
+    "revision": ""
+  }, 
+  "test_chrome_gsearch_ail_select_image_cat": {
+    "total_time": 5877.777777777777, 
+    "time_list": [
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493888430", 
+        "time_sequence": [], 
+        "run_time": 155.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493889937", 
+        "time_sequence": [], 
+        "run_time": 766.6666666666679
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493890289", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493890553", 
+        "time_sequence": [], 
+        "run_time": 177.77777777777737
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493890827", 
+        "time_sequence": [], 
+        "run_time": 200.0
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493891176", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493891481", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493891772", 
+        "time_sequence": [], 
+        "run_time": 188.8888888888905
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493892053", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493892329", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493892606", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493892890", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493893165", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493893441", 
+        "time_sequence": [], 
+        "run_time": 177.77777777777737
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493893714", 
+        "time_sequence": [], 
+        "run_time": 188.88888888888687
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493893985", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493894278", 
+        "time_sequence": [], 
+        "run_time": 188.88888888888687
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493894591", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493894826", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493895107", 
+        "time_sequence": [], 
+        "run_time": 188.8888888888905
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493895434", 
+        "time_sequence": [], 
+        "run_time": 188.88888888888687
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493895714", 
+        "time_sequence": [], 
+        "run_time": 188.8888888888905
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493895983", 
+        "time_sequence": [], 
+        "run_time": 188.8888888888905
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493896253", 
+        "time_sequence": [], 
+        "run_time": 188.88888888888687
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493896519", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666424
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493896788", 
+        "time_sequence": [], 
+        "run_time": 177.77777777777737
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493897068", 
+        "time_sequence": [], 
+        "run_time": 188.8888888888905
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493897336", 
+        "time_sequence": [], 
+        "run_time": 166.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493897610", 
+        "time_sequence": [], 
+        "run_time": 177.77777777777737
+      }, 
+      {
+        "folder": "test_chrome_gsearch_ail_select_image_cat_1493897893", 
+        "time_sequence": [], 
+        "run_time": 177.777777777781
+      }
+    ], 
+    "avg_time": 195.92592592592592, 
+    "description": null, 
+    "pkg_platform": "", 
+    "outlier": [], 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493888430\\image_02405.bmp", 
+        "time_seq": 26722.222222222223
+      }, 
+      {
+        "time_seq": 26877.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493888430\\image_02419.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493889937\\image_02297.bmp", 
+        "time_seq": 25522.222222222223
+      }, 
+      {
+        "time_seq": 26288.88888888889, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493889937\\image_02366.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890289\\image_02220.bmp", 
+        "time_seq": 24666.666666666668
+      }, 
+      {
+        "time_seq": 24833.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890289\\image_02235.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890553\\image_02220.bmp", 
+        "time_seq": 24666.666666666668
+      }, 
+      {
+        "time_seq": 24844.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890553\\image_02236.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890827\\image_02232.bmp", 
+        "time_seq": 24800.0
+      }, 
+      {
+        "time_seq": 25000.0, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493890827\\image_02250.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891176\\image_02228.bmp", 
+        "time_seq": 24755.555555555555
+      }, 
+      {
+        "time_seq": 24922.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891176\\image_02243.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891481\\image_02289.bmp", 
+        "time_seq": 25433.333333333332
+      }, 
+      {
+        "time_seq": 25600.0, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891481\\image_02304.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891772\\image_02275.bmp", 
+        "time_seq": 25277.777777777777
+      }, 
+      {
+        "time_seq": 25466.666666666668, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493891772\\image_02292.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892053\\image_02264.bmp", 
+        "time_seq": 25155.555555555555
+      }, 
+      {
+        "time_seq": 25322.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892053\\image_02279.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892329\\image_02273.bmp", 
+        "time_seq": 25255.555555555555
+      }, 
+      {
+        "time_seq": 25422.222222222223, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892329\\image_02288.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892606\\image_02294.bmp", 
+        "time_seq": 25488.88888888889
+      }, 
+      {
+        "time_seq": 25655.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892606\\image_02309.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892890\\image_02278.bmp", 
+        "time_seq": 25311.11111111111
+      }, 
+      {
+        "time_seq": 25477.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493892890\\image_02293.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893165\\image_02251.bmp", 
+        "time_seq": 25011.11111111111
+      }, 
+      {
+        "time_seq": 25177.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893165\\image_02266.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893441\\image_02262.bmp", 
+        "time_seq": 25133.333333333332
+      }, 
+      {
+        "time_seq": 25311.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893441\\image_02278.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893714\\image_02328.bmp", 
+        "time_seq": 25866.666666666668
+      }, 
+      {
+        "time_seq": 26055.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893714\\image_02345.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893985\\image_02188.bmp", 
+        "time_seq": 24311.11111111111
+      }, 
+      {
+        "time_seq": 24477.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493893985\\image_02203.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894278\\image_02396.bmp", 
+        "time_seq": 26622.222222222223
+      }, 
+      {
+        "time_seq": 26811.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894278\\image_02413.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894591\\image_03059.bmp", 
+        "time_seq": 33988.88888888889
+      }, 
+      {
+        "time_seq": 34155.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894591\\image_03074.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894826\\image_02175.bmp", 
+        "time_seq": 24166.666666666668
+      }, 
+      {
+        "time_seq": 24333.333333333332, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493894826\\image_02190.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895107\\image_02795.bmp", 
+        "time_seq": 31055.555555555555
+      }, 
+      {
+        "time_seq": 31244.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895107\\image_02812.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895434\\image_02270.bmp", 
+        "time_seq": 25222.222222222223
+      }, 
+      {
+        "time_seq": 25411.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895434\\image_02287.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895714\\image_02246.bmp", 
+        "time_seq": 24955.555555555555
+      }, 
+      {
+        "time_seq": 25144.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895714\\image_02263.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895983\\image_02320.bmp", 
+        "time_seq": 25777.777777777777
+      }, 
+      {
+        "time_seq": 25966.666666666668, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493895983\\image_02337.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896253\\image_02252.bmp", 
+        "time_seq": 25022.222222222223
+      }, 
+      {
+        "time_seq": 25211.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896253\\image_02269.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896519\\image_02245.bmp", 
+        "time_seq": 24944.444444444445
+      }, 
+      {
+        "time_seq": 25111.11111111111, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896519\\image_02260.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896788\\image_02248.bmp", 
+        "time_seq": 24977.777777777777
+      }, 
+      {
+        "time_seq": 25155.555555555555, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493896788\\image_02264.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897068\\image_02264.bmp", 
+        "time_seq": 25155.555555555555
+      }, 
+      {
+        "time_seq": 25344.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897068\\image_02281.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897336\\image_02266.bmp", 
+        "time_seq": 25177.777777777777
+      }, 
+      {
+        "time_seq": 25344.444444444445, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897336\\image_02281.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897610\\image_02466.bmp", 
+        "time_seq": 27400.0
+      }, 
+      {
+        "time_seq": 27577.777777777777, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897610\\image_02482.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897893\\image_02206.bmp", 
+        "time_seq": 24511.11111111111
+      }, 
+      {
+        "time_seq": 24688.88888888889, 
+        "end": "C:\\Users\\user\\hasal\\output\\images\\output\\test_chrome_gsearch_ail_select_image_cat_1493897893\\image_02222.bmp"
+      }
+    ], 
+    "error_no": 0, 
+    "total_run_no": 30, 
+    "std_dev": 106.5540815305044, 
+    "video_fp": "C:\\Users\\user\\hasal\\output\\videos\\test_chrome_gsearch_ail_select_image_cat_1493897893.mkv", 
+    "max_time": 766.6666666666679, 
+    "min_time": 155.55555555555475, 
+    "web_app_name": "gsearch", 
+    "med_time": 177.77777777777737, 
+    "revision": ""
+  }
+}
