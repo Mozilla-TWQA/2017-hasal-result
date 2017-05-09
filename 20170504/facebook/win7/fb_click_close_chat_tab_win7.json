@@ -1,0 +1,822 @@
+{
+  "test_firefox_facebook_ail_click_close_chat_tab": {
+    "total_time": 1177.7777777777883, 
+    "time_list": [
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494239240", 
+        "time_sequence": [], 
+        "run_time": 88.8888888888905
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494239568", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494239881", 
+        "time_sequence": [], 
+        "run_time": 55.55555555556202
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494240169", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494240460", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494240736", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494241001", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494241273", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494241559", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494241831", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494242111", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494242422", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494242705", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494243040", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494243333", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494243622", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494243921", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494244140", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494244437", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494244724", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494245010", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494245311", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494245613", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494245905", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494246206", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494246513", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333576
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494246812", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494247116", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494247402", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_close_chat_tab_1494247693", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }
+    ], 
+    "avg_time": 39.259259259259608, 
+    "description": null, 
+    "outlier": [], 
+    "std_dev": 11.011902775791881, 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239240\\image_04693.bmp", 
+        "time_seq": 52144.444444444445
+      }, 
+      {
+        "time_seq": 52233.333333333336, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239240\\image_04701.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239568\\image_03519.bmp", 
+        "time_seq": 39100.0
+      }, 
+      {
+        "time_seq": 39133.333333333336, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239568\\image_03522.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239881\\image_03359.bmp", 
+        "time_seq": 37322.22222222222
+      }, 
+      {
+        "time_seq": 37377.77777777778, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494239881\\image_03364.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240169\\image_02838.bmp", 
+        "time_seq": 31533.333333333332
+      }, 
+      {
+        "time_seq": 31566.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240169\\image_02841.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240460\\image_02873.bmp", 
+        "time_seq": 31922.222222222223
+      }, 
+      {
+        "time_seq": 31966.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240460\\image_02877.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240736\\image_02786.bmp", 
+        "time_seq": 30955.555555555555
+      }, 
+      {
+        "time_seq": 30988.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494240736\\image_02789.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241001\\image_02841.bmp", 
+        "time_seq": 31566.666666666668
+      }, 
+      {
+        "time_seq": 31600.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241001\\image_02844.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241273\\image_02915.bmp", 
+        "time_seq": 32388.88888888889
+      }, 
+      {
+        "time_seq": 32422.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241273\\image_02918.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241559\\image_02919.bmp", 
+        "time_seq": 32433.333333333332
+      }, 
+      {
+        "time_seq": 32477.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241559\\image_02923.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241831\\image_02767.bmp", 
+        "time_seq": 30744.444444444445
+      }, 
+      {
+        "time_seq": 30788.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494241831\\image_02771.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242111\\image_02848.bmp", 
+        "time_seq": 31644.444444444445
+      }, 
+      {
+        "time_seq": 31677.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242111\\image_02851.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242422\\image_02840.bmp", 
+        "time_seq": 31555.555555555555
+      }, 
+      {
+        "time_seq": 31588.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242422\\image_02843.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242705\\image_02824.bmp", 
+        "time_seq": 31377.777777777777
+      }, 
+      {
+        "time_seq": 31411.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494242705\\image_02827.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243040\\image_02781.bmp", 
+        "time_seq": 30900.0
+      }, 
+      {
+        "time_seq": 30933.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243040\\image_02784.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243333\\image_02778.bmp", 
+        "time_seq": 30866.666666666668
+      }, 
+      {
+        "time_seq": 30911.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243333\\image_02782.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243622\\image_02819.bmp", 
+        "time_seq": 31322.222222222223
+      }, 
+      {
+        "time_seq": 31355.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243622\\image_02822.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243921\\image_02818.bmp", 
+        "time_seq": 31311.11111111111
+      }, 
+      {
+        "time_seq": 31355.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494243921\\image_02822.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244140\\image_02823.bmp", 
+        "time_seq": 31366.666666666668
+      }, 
+      {
+        "time_seq": 31411.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244140\\image_02827.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244437\\image_02899.bmp", 
+        "time_seq": 32211.11111111111
+      }, 
+      {
+        "time_seq": 32244.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244437\\image_02902.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244724\\image_02781.bmp", 
+        "time_seq": 30900.0
+      }, 
+      {
+        "time_seq": 30933.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494244724\\image_02784.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245010\\image_02828.bmp", 
+        "time_seq": 31422.222222222223
+      }, 
+      {
+        "time_seq": 31466.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245010\\image_02832.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245311\\image_02825.bmp", 
+        "time_seq": 31388.88888888889
+      }, 
+      {
+        "time_seq": 31422.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245311\\image_02828.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245613\\image_02845.bmp", 
+        "time_seq": 31611.11111111111
+      }, 
+      {
+        "time_seq": 31644.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245613\\image_02848.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245905\\image_02779.bmp", 
+        "time_seq": 30877.777777777777
+      }, 
+      {
+        "time_seq": 30911.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494245905\\image_02782.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246206\\image_02723.bmp", 
+        "time_seq": 30255.555555555555
+      }, 
+      {
+        "time_seq": 30288.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246206\\image_02726.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246513\\image_02847.bmp", 
+        "time_seq": 31633.333333333332
+      }, 
+      {
+        "time_seq": 31666.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246513\\image_02850.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246812\\image_02832.bmp", 
+        "time_seq": 31466.666666666668
+      }, 
+      {
+        "time_seq": 31511.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494246812\\image_02836.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247116\\image_02823.bmp", 
+        "time_seq": 31366.666666666668
+      }, 
+      {
+        "time_seq": 31400.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247116\\image_02826.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247402\\image_02807.bmp", 
+        "time_seq": 31188.88888888889
+      }, 
+      {
+        "time_seq": 31222.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247402\\image_02810.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247693\\image_02750.bmp", 
+        "time_seq": 30555.555555555555
+      }, 
+      {
+        "time_seq": 30600.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_close_chat_tab_1494247693\\image_02754.bmp"
+      }
+    ], 
+    "error_no": 0, 
+    "total_run_no": 30, 
+    "pkg_platform": "", 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_firefox_facebook_ail_click_close_chat_tab_1494247693.mkv", 
+    "max_time": 88.8888888888905, 
+    "min_time": 33.33333333333212, 
+    "web_app_name": "facebook", 
+    "med_time": 33.33333333333576, 
+    "revision": ""
+  }, 
+  "test_chrome_facebook_ail_click_close_chat_tab": {
+    "total_time": 433.3333333333503, 
+    "time_list": [
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493994080", 
+        "time_sequence": [], 
+        "run_time": 22.22222222221899
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493994394", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493994712", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493995026", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493995346", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493995661", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493995997", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493996314", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493996644", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493996959", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493997288", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493997621", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493997957", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493998302", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493998637", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493998984", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493999328", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1493999677", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494000032", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494000392", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494000747", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494001109", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494001468", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494001835", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494002201", 
+        "time_sequence": [], 
+        "run_time": 11.111111111113132
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494002580", 
+        "time_sequence": [], 
+        "run_time": 11.111111111109494
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494237958", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494238308", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494238630", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_close_chat_tab_1494238936", 
+        "time_sequence": [], 
+        "run_time": 22.222222222222626
+      }
+    ], 
+    "avg_time": 14.44444444444501, 
+    "description": null, 
+    "outlier": [], 
+    "med_time": 11.111111111113132, 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994080\\image_03095.bmp", 
+        "time_seq": 34388.88888888889
+      }, 
+      {
+        "time_seq": 34411.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994080\\image_03097.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994394\\image_02739.bmp", 
+        "time_seq": 30433.333333333332
+      }, 
+      {
+        "time_seq": 30444.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994394\\image_02740.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994712\\image_02663.bmp", 
+        "time_seq": 29588.88888888889
+      }, 
+      {
+        "time_seq": 29600.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493994712\\image_02664.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995026\\image_02708.bmp", 
+        "time_seq": 30088.88888888889
+      }, 
+      {
+        "time_seq": 30100.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995026\\image_02709.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995346\\image_02602.bmp", 
+        "time_seq": 28911.11111111111
+      }, 
+      {
+        "time_seq": 28933.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995346\\image_02604.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995661\\image_02621.bmp", 
+        "time_seq": 29122.222222222223
+      }, 
+      {
+        "time_seq": 29133.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995661\\image_02622.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995997\\image_02775.bmp", 
+        "time_seq": 30833.333333333332
+      }, 
+      {
+        "time_seq": 30844.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493995997\\image_02776.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996314\\image_02773.bmp", 
+        "time_seq": 30811.11111111111
+      }, 
+      {
+        "time_seq": 30822.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996314\\image_02774.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996644\\image_02644.bmp", 
+        "time_seq": 29377.777777777777
+      }, 
+      {
+        "time_seq": 29388.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996644\\image_02645.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996959\\image_02761.bmp", 
+        "time_seq": 30677.777777777777
+      }, 
+      {
+        "time_seq": 30688.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493996959\\image_02762.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997288\\image_02631.bmp", 
+        "time_seq": 29233.333333333332
+      }, 
+      {
+        "time_seq": 29255.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997288\\image_02633.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997621\\image_02824.bmp", 
+        "time_seq": 31377.777777777777
+      }, 
+      {
+        "time_seq": 31388.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997621\\image_02825.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997957\\image_02590.bmp", 
+        "time_seq": 28777.777777777777
+      }, 
+      {
+        "time_seq": 28788.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493997957\\image_02591.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998302\\image_02604.bmp", 
+        "time_seq": 28933.333333333332
+      }, 
+      {
+        "time_seq": 28944.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998302\\image_02605.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998637\\image_02682.bmp", 
+        "time_seq": 29800.0
+      }, 
+      {
+        "time_seq": 29811.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998637\\image_02683.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998984\\image_02584.bmp", 
+        "time_seq": 28711.11111111111
+      }, 
+      {
+        "time_seq": 28722.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493998984\\image_02585.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493999328\\image_02586.bmp", 
+        "time_seq": 28733.333333333332
+      }, 
+      {
+        "time_seq": 28744.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493999328\\image_02587.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493999677\\image_02626.bmp", 
+        "time_seq": 29177.777777777777
+      }, 
+      {
+        "time_seq": 29188.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1493999677\\image_02627.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000032\\image_02710.bmp", 
+        "time_seq": 30111.11111111111
+      }, 
+      {
+        "time_seq": 30122.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000032\\image_02711.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000392\\image_02589.bmp", 
+        "time_seq": 28766.666666666668
+      }, 
+      {
+        "time_seq": 28777.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000392\\image_02590.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000747\\image_02697.bmp", 
+        "time_seq": 29966.666666666668
+      }, 
+      {
+        "time_seq": 29988.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494000747\\image_02699.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001109\\image_02800.bmp", 
+        "time_seq": 31111.11111111111
+      }, 
+      {
+        "time_seq": 31122.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001109\\image_02801.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001468\\image_02711.bmp", 
+        "time_seq": 30122.222222222223
+      }, 
+      {
+        "time_seq": 30144.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001468\\image_02713.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001835\\image_02659.bmp", 
+        "time_seq": 29544.444444444445
+      }, 
+      {
+        "time_seq": 29555.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494001835\\image_02660.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494002201\\image_02608.bmp", 
+        "time_seq": 28977.777777777777
+      }, 
+      {
+        "time_seq": 28988.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494002201\\image_02609.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494002580\\image_02699.bmp", 
+        "time_seq": 29988.88888888889
+      }, 
+      {
+        "time_seq": 30000.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494002580\\image_02700.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494237958\\image_02637.bmp", 
+        "time_seq": 29300.0
+      }, 
+      {
+        "time_seq": 29322.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494237958\\image_02639.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238308\\image_02558.bmp", 
+        "time_seq": 28422.222222222223
+      }, 
+      {
+        "time_seq": 28444.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238308\\image_02560.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238630\\image_02635.bmp", 
+        "time_seq": 29277.777777777777
+      }, 
+      {
+        "time_seq": 29300.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238630\\image_02637.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238936\\image_02909.bmp", 
+        "time_seq": 32322.222222222223
+      }, 
+      {
+        "time_seq": 32344.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_close_chat_tab_1494238936\\image_02911.bmp"
+      }
+    ], 
+    "min_time": 11.111111111109494, 
+    "total_run_no": 30, 
+    "pkg_platform": "", 
+    "web_app_name": "facebook", 
+    "max_time": 22.222222222222626, 
+    "error_no": 0, 
+    "std_dev": 5.0917507721727855, 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_chrome_facebook_ail_click_close_chat_tab_1494238936.mkv", 
+    "revision": ""
+  }
+}

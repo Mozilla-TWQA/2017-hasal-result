@@ -1,0 +1,822 @@
+{
+  "test_chrome_facebook_ail_click_photo_viewer_right_arrow": {
+    "total_time": 1544.4444444444416, 
+    "time_list": [
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494233973", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494236923", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237264", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237563", 
+        "time_sequence": [], 
+        "run_time": 55.555555555558385
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237868", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238136", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238437", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238718", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239008", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239274", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239557", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239821", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240108", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240404", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240679", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240998", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241518", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241767", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242060", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242320", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242608", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242878", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243178", 
+        "time_sequence": [], 
+        "run_time": 33.33333333333212
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243443", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243749", 
+        "time_sequence": [], 
+        "run_time": 44.444444444441615
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244000", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244306", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244566", 
+        "time_sequence": [], 
+        "run_time": 55.555555555558385
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244856", 
+        "time_sequence": [], 
+        "run_time": 55.555555555558385
+      }, 
+      {
+        "folder": "test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494245106", 
+        "time_sequence": [], 
+        "run_time": 44.44444444444525
+      }
+    ], 
+    "avg_time": 51.48148148148139, 
+    "description": null, 
+    "pkg_platform": "", 
+    "outlier": [], 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494233973\\image_02154.bmp", 
+        "time_seq": 23933.333333333332
+      }, 
+      {
+        "time_seq": 23977.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494233973\\image_02158.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494236923\\image_02252.bmp", 
+        "time_seq": 25022.222222222223
+      }, 
+      {
+        "time_seq": 25088.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494236923\\image_02258.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237264\\image_02027.bmp", 
+        "time_seq": 22522.222222222223
+      }, 
+      {
+        "time_seq": 22577.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237264\\image_02032.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237563\\image_02118.bmp", 
+        "time_seq": 23533.333333333332
+      }, 
+      {
+        "time_seq": 23588.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237563\\image_02123.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237868\\image_02085.bmp", 
+        "time_seq": 23166.666666666668
+      }, 
+      {
+        "time_seq": 23222.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494237868\\image_02090.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238136\\image_02090.bmp", 
+        "time_seq": 23222.222222222223
+      }, 
+      {
+        "time_seq": 23266.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238136\\image_02094.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238437\\image_02114.bmp", 
+        "time_seq": 23488.88888888889
+      }, 
+      {
+        "time_seq": 23522.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238437\\image_02117.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238718\\image_02126.bmp", 
+        "time_seq": 23622.222222222223
+      }, 
+      {
+        "time_seq": 23677.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494238718\\image_02131.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239008\\image_02054.bmp", 
+        "time_seq": 22822.222222222223
+      }, 
+      {
+        "time_seq": 22866.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239008\\image_02058.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239274\\image_02109.bmp", 
+        "time_seq": 23433.333333333332
+      }, 
+      {
+        "time_seq": 23477.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239274\\image_02113.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239557\\image_02102.bmp", 
+        "time_seq": 23355.555555555555
+      }, 
+      {
+        "time_seq": 23400.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239557\\image_02106.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239821\\image_02105.bmp", 
+        "time_seq": 23388.88888888889
+      }, 
+      {
+        "time_seq": 23433.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494239821\\image_02109.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240108\\image_02070.bmp", 
+        "time_seq": 23000.0
+      }, 
+      {
+        "time_seq": 23055.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240108\\image_02075.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240404\\image_02068.bmp", 
+        "time_seq": 22977.777777777777
+      }, 
+      {
+        "time_seq": 23044.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240404\\image_02074.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240679\\image_02138.bmp", 
+        "time_seq": 23755.555555555555
+      }, 
+      {
+        "time_seq": 23833.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240679\\image_02145.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240998\\image_02120.bmp", 
+        "time_seq": 23555.555555555555
+      }, 
+      {
+        "time_seq": 23600.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494240998\\image_02124.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241518\\image_02175.bmp", 
+        "time_seq": 24166.666666666668
+      }, 
+      {
+        "time_seq": 24222.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241518\\image_02180.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241767\\image_02112.bmp", 
+        "time_seq": 23466.666666666668
+      }, 
+      {
+        "time_seq": 23511.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494241767\\image_02116.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242060\\image_02112.bmp", 
+        "time_seq": 23466.666666666668
+      }, 
+      {
+        "time_seq": 23522.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242060\\image_02117.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242320\\image_02187.bmp", 
+        "time_seq": 24300.0
+      }, 
+      {
+        "time_seq": 24355.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242320\\image_02192.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242608\\image_02097.bmp", 
+        "time_seq": 23300.0
+      }, 
+      {
+        "time_seq": 23355.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242608\\image_02102.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242878\\image_02006.bmp", 
+        "time_seq": 22288.88888888889
+      }, 
+      {
+        "time_seq": 22344.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494242878\\image_02011.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243178\\image_02072.bmp", 
+        "time_seq": 23022.222222222223
+      }, 
+      {
+        "time_seq": 23055.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243178\\image_02075.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243443\\image_02058.bmp", 
+        "time_seq": 22866.666666666668
+      }, 
+      {
+        "time_seq": 22922.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243443\\image_02063.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243749\\image_02105.bmp", 
+        "time_seq": 23388.88888888889
+      }, 
+      {
+        "time_seq": 23433.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494243749\\image_02109.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244000\\image_02074.bmp", 
+        "time_seq": 23044.444444444445
+      }, 
+      {
+        "time_seq": 23100.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244000\\image_02079.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244306\\image_02097.bmp", 
+        "time_seq": 23300.0
+      }, 
+      {
+        "time_seq": 23344.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244306\\image_02101.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244566\\image_02089.bmp", 
+        "time_seq": 23211.11111111111
+      }, 
+      {
+        "time_seq": 23266.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244566\\image_02094.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244856\\image_02098.bmp", 
+        "time_seq": 23311.11111111111
+      }, 
+      {
+        "time_seq": 23366.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494244856\\image_02103.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494245106\\image_02228.bmp", 
+        "time_seq": 24755.555555555555
+      }, 
+      {
+        "time_seq": 24800.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494245106\\image_02232.bmp"
+      }
+    ], 
+    "error_no": 0, 
+    "total_run_no": 30, 
+    "std_dev": 9.288841632581372, 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494245106.mkv", 
+    "max_time": 77.77777777777737, 
+    "min_time": 33.33333333333212, 
+    "web_app_name": "facebook", 
+    "med_time": 55.55555555555475, 
+    "revision": ""
+  }, 
+  "test_firefox_facebook_ail_click_photo_viewer_right_arrow": {
+    "total_time": 2011.1111111111059, 
+    "time_list": [
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494234257", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245407", 
+        "time_sequence": [], 
+        "run_time": 155.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245710", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246079", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246391", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246699", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247006", 
+        "time_sequence": [], 
+        "run_time": 55.555555555558385
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247314", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247613", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247923", 
+        "time_sequence": [], 
+        "run_time": 77.77777777778101
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248228", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248538", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248843", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249149", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249445", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249764", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250064", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250389", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250695", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250999", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777737
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251329", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251651", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251949", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252253", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252553", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252871", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253189", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253526", 
+        "time_sequence": [], 
+        "run_time": 55.55555555555475
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253852", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666424
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494254504", 
+        "time_sequence": [], 
+        "run_time": 66.66666666666788
+      }
+    ], 
+    "avg_time": 67.037037037036868, 
+    "description": null, 
+    "outlier": [], 
+    "med_time": 66.66666666666424, 
+    "detail": [
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494234257\\image_02453.bmp", 
+        "time_seq": 27255.555555555555
+      }, 
+      {
+        "time_seq": 27322.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494234257\\image_02459.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245407\\image_02991.bmp", 
+        "time_seq": 33233.333333333336
+      }, 
+      {
+        "time_seq": 33388.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245407\\image_03005.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245710\\image_02282.bmp", 
+        "time_seq": 25355.555555555555
+      }, 
+      {
+        "time_seq": 25411.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494245710\\image_02287.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246079\\image_02927.bmp", 
+        "time_seq": 32522.222222222223
+      }, 
+      {
+        "time_seq": 32577.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246079\\image_02932.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246391\\image_02262.bmp", 
+        "time_seq": 25133.333333333332
+      }, 
+      {
+        "time_seq": 25200.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246391\\image_02268.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246699\\image_02250.bmp", 
+        "time_seq": 25000.0
+      }, 
+      {
+        "time_seq": 25055.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494246699\\image_02255.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247006\\image_02269.bmp", 
+        "time_seq": 25211.11111111111
+      }, 
+      {
+        "time_seq": 25266.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247006\\image_02274.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247314\\image_02305.bmp", 
+        "time_seq": 25611.11111111111
+      }, 
+      {
+        "time_seq": 25677.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247314\\image_02311.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247613\\image_02285.bmp", 
+        "time_seq": 25388.88888888889
+      }, 
+      {
+        "time_seq": 25455.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247613\\image_02291.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247923\\image_02242.bmp", 
+        "time_seq": 24911.11111111111
+      }, 
+      {
+        "time_seq": 24988.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494247923\\image_02249.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248228\\image_02209.bmp", 
+        "time_seq": 24544.444444444445
+      }, 
+      {
+        "time_seq": 24611.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248228\\image_02215.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248538\\image_02283.bmp", 
+        "time_seq": 25366.666666666668
+      }, 
+      {
+        "time_seq": 25433.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248538\\image_02289.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248843\\image_02222.bmp", 
+        "time_seq": 24688.88888888889
+      }, 
+      {
+        "time_seq": 24766.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494248843\\image_02229.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249149\\image_02435.bmp", 
+        "time_seq": 27055.555555555555
+      }, 
+      {
+        "time_seq": 27111.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249149\\image_02440.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249445\\image_02354.bmp", 
+        "time_seq": 26155.555555555555
+      }, 
+      {
+        "time_seq": 26222.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249445\\image_02360.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249764\\image_02323.bmp", 
+        "time_seq": 25811.11111111111
+      }, 
+      {
+        "time_seq": 25877.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494249764\\image_02329.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250064\\image_02249.bmp", 
+        "time_seq": 24988.88888888889
+      }, 
+      {
+        "time_seq": 25055.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250064\\image_02255.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250389\\image_02331.bmp", 
+        "time_seq": 25900.0
+      }, 
+      {
+        "time_seq": 25977.777777777777, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250389\\image_02338.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250695\\image_02338.bmp", 
+        "time_seq": 25977.777777777777
+      }, 
+      {
+        "time_seq": 26033.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250695\\image_02343.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250999\\image_02168.bmp", 
+        "time_seq": 24088.88888888889
+      }, 
+      {
+        "time_seq": 24166.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494250999\\image_02175.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251329\\image_02509.bmp", 
+        "time_seq": 27877.777777777777
+      }, 
+      {
+        "time_seq": 27933.333333333332, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251329\\image_02514.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251651\\image_02225.bmp", 
+        "time_seq": 24722.222222222223
+      }, 
+      {
+        "time_seq": 24788.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251651\\image_02231.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251949\\image_02313.bmp", 
+        "time_seq": 25700.0
+      }, 
+      {
+        "time_seq": 25755.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494251949\\image_02318.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252253\\image_02282.bmp", 
+        "time_seq": 25355.555555555555
+      }, 
+      {
+        "time_seq": 25411.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252253\\image_02287.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252553\\image_02232.bmp", 
+        "time_seq": 24800.0
+      }, 
+      {
+        "time_seq": 24866.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252553\\image_02238.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252871\\image_02337.bmp", 
+        "time_seq": 25966.666666666668
+      }, 
+      {
+        "time_seq": 26022.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494252871\\image_02342.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253189\\image_02372.bmp", 
+        "time_seq": 26355.555555555555
+      }, 
+      {
+        "time_seq": 26422.222222222223, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253189\\image_02378.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253526\\image_02173.bmp", 
+        "time_seq": 24144.444444444445
+      }, 
+      {
+        "time_seq": 24200.0, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253526\\image_02178.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253852\\image_02317.bmp", 
+        "time_seq": 25744.444444444445
+      }, 
+      {
+        "time_seq": 25811.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494253852\\image_02323.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494254504\\image_02619.bmp", 
+        "time_seq": 29100.0
+      }, 
+      {
+        "time_seq": 29166.666666666668, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494254504\\image_02625.bmp"
+      }
+    ], 
+    "min_time": 55.55555555555475, 
+    "total_run_no": 30, 
+    "std_dev": 18.026805220204402, 
+    "web_app_name": "facebook", 
+    "max_time": 155.55555555555475, 
+    "error_no": 0, 
+    "pkg_platform": "", 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494254504.mkv", 
+    "revision": ""
+  }
+}
