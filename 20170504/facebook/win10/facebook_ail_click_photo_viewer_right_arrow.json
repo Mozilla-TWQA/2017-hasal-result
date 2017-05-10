@@ -155,8 +155,8 @@
     ], 
     "avg_time": 55.55555555555559, 
     "description": null, 
+    "pkg_platform": "", 
     "outlier": [], 
-    "med_time": 55.55555555555475, 
     "detail": [
       {
         "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494228221\\image_02781.bmp", 
@@ -399,18 +399,18 @@
         "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494303958\\image_02864.bmp"
       }
     ], 
-    "min_time": 33.33333333333212, 
+    "error_no": 0, 
     "total_run_no": 30, 
     "std_dev": 9.514987095307534, 
-    "web_app_name": "facebook", 
-    "max_time": 77.77777777778101, 
-    "error_no": 0, 
-    "pkg_platform": "", 
     "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_chrome_facebook_ail_click_photo_viewer_right_arrow_1494303958.mkv", 
+    "max_time": 77.77777777778101, 
+    "min_time": 33.33333333333212, 
+    "web_app_name": "facebook", 
+    "med_time": 55.55555555555475, 
     "revision": ""
   }, 
   "test_firefox_facebook_ail_click_photo_viewer_right_arrow": {
-    "total_time": 1888.8888888888978, 
+    "total_time": 2700.000000000022, 
     "time_list": [
       {
         "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494231705", 
@@ -516,12 +516,57 @@
         "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325416", 
         "time_sequence": [], 
         "run_time": 88.88888888888323
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325796", 
+        "time_sequence": [], 
+        "run_time": 100.0
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494326184", 
+        "time_sequence": [], 
+        "run_time": 77.77777777778101
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327155", 
+        "time_sequence": [], 
+        "run_time": 77.77777777778101
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327506", 
+        "time_sequence": [], 
+        "run_time": 122.22222222222626
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327865", 
+        "time_sequence": [], 
+        "run_time": 100.0
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328246", 
+        "time_sequence": [], 
+        "run_time": 77.77777777777374
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328579", 
+        "time_sequence": [], 
+        "run_time": 77.77777777778101
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328913", 
+        "time_sequence": [], 
+        "run_time": 88.8888888888905
+      }, 
+      {
+        "folder": "test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494329257", 
+        "time_sequence": [], 
+        "run_time": 88.8888888888905
       }
     ], 
-    "avg_time": 89.94708994709038, 
+    "avg_time": 90.00000000000072, 
     "description": null, 
     "outlier": [], 
-    "med_time": 100.0, 
+    "med_time": 88.8888888888905, 
     "detail": [
       {
         "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494231705\\image_03899.bmp", 
@@ -690,16 +735,88 @@
       {
         "time_seq": 39466.666666666664, 
         "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325416\\image_03552.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325796\\image_03421.bmp", 
+        "time_seq": 38011.11111111111
+      }, 
+      {
+        "time_seq": 38111.11111111111, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325796\\image_03430.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494326184\\image_03417.bmp", 
+        "time_seq": 37966.666666666664
+      }, 
+      {
+        "time_seq": 38044.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494326184\\image_03424.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327155\\image_03754.bmp", 
+        "time_seq": 41711.11111111111
+      }, 
+      {
+        "time_seq": 41788.88888888889, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327155\\image_03761.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327506\\image_04429.bmp", 
+        "time_seq": 49211.11111111111
+      }, 
+      {
+        "time_seq": 49333.333333333336, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327506\\image_04440.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327865\\image_03677.bmp", 
+        "time_seq": 40855.555555555555
+      }, 
+      {
+        "time_seq": 40955.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494327865\\image_03686.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328246\\image_03400.bmp", 
+        "time_seq": 37777.77777777778
+      }, 
+      {
+        "time_seq": 37855.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328246\\image_03407.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328579\\image_03462.bmp", 
+        "time_seq": 38466.666666666664
+      }, 
+      {
+        "time_seq": 38544.444444444445, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328579\\image_03469.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328913\\image_03489.bmp", 
+        "time_seq": 38766.666666666664
+      }, 
+      {
+        "time_seq": 38855.555555555555, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494328913\\image_03497.bmp"
+      }, 
+      {
+        "start": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494329257\\image_03383.bmp", 
+        "time_seq": 37588.88888888889
+      }, 
+      {
+        "time_seq": 37677.77777777778, 
+        "end": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494329257\\image_03391.bmp"
       }
     ], 
     "min_time": 66.66666666666424, 
-    "total_run_no": 21, 
-    "pkg_platform": "", 
+    "total_run_no": 30, 
+    "std_dev": 12.94178163678176, 
     "web_app_name": "facebook", 
-    "max_time": 100.0, 
+    "max_time": 122.22222222222626, 
     "error_no": 0, 
-    "std_dev": 12.317933044255868, 
-    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494325416.mkv", 
+    "pkg_platform": "", 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_firefox_facebook_ail_click_photo_viewer_right_arrow_1494329257.mkv", 
     "revision": ""
   }
 }
