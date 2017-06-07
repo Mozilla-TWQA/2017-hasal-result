@@ -1,0 +1,1123 @@
+{
+  "video-recording-fps": 90, 
+  "test_chrome_youtube_ail_type_in_search_field": {
+    "total_time": 255.5555555555558, 
+    "time_list": [
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496721774", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496722145", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496722487", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496722791", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496723068", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496723338", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496723609", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496723884", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496724155", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496724415", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496724683", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496724950", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496725205", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496725466", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496725721", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496725997", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496726266", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496726528", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496726788", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496727052", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496727318", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496727589", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496727849", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496728121", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496728386", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496728640", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496728888", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496729152", 
+        "run_time": 5.555555555555555, 
+        "event_time": {
+          "start": 0, 
+          "end": 0.0
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496729420", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_chrome_youtube_ail_type_in_search_field_1496729699", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }
+    ], 
+    "avg_time": 8.518518518518531, 
+    "description": null, 
+    "pkg_platform": "", 
+    "outlier": [], 
+    "detail": [
+      {
+        "time_seq": 35355.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496721774\\image_03182.bmp"
+      }, 
+      {
+        "time_seq": 35355.555555555555, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496721774\\image_03182.bmp"
+      }, 
+      {
+        "time_seq": 42066.666666666664, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722145\\image_03786.bmp"
+      }, 
+      {
+        "time_seq": 42066.666666666664, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722145\\image_03786.bmp"
+      }, 
+      {
+        "time_seq": 37633.333333333336, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722487\\image_03387.bmp"
+      }, 
+      {
+        "time_seq": 37633.333333333336, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722487\\image_03387.bmp"
+      }, 
+      {
+        "time_seq": 27800.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722791\\image_02502.bmp"
+      }, 
+      {
+        "time_seq": 27811.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496722791\\image_02503.bmp"
+      }, 
+      {
+        "time_seq": 26677.777777777777, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723068\\image_02401.bmp"
+      }, 
+      {
+        "time_seq": 26700.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723068\\image_02403.bmp"
+      }, 
+      {
+        "time_seq": 27488.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723338\\image_02474.bmp"
+      }, 
+      {
+        "time_seq": 27488.88888888889, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723338\\image_02474.bmp"
+      }, 
+      {
+        "time_seq": 26722.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723609\\image_02405.bmp"
+      }, 
+      {
+        "time_seq": 26744.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723609\\image_02407.bmp"
+      }, 
+      {
+        "time_seq": 27633.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723884\\image_02487.bmp"
+      }, 
+      {
+        "time_seq": 27633.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496723884\\image_02487.bmp"
+      }, 
+      {
+        "time_seq": 26322.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724155\\image_02369.bmp"
+      }, 
+      {
+        "time_seq": 26344.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724155\\image_02371.bmp"
+      }, 
+      {
+        "time_seq": 26511.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724415\\image_02386.bmp"
+      }, 
+      {
+        "time_seq": 26511.11111111111, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724415\\image_02386.bmp"
+      }, 
+      {
+        "time_seq": 26366.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724683\\image_02373.bmp"
+      }, 
+      {
+        "time_seq": 26366.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724683\\image_02373.bmp"
+      }, 
+      {
+        "time_seq": 26522.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724950\\image_02387.bmp"
+      }, 
+      {
+        "time_seq": 26522.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496724950\\image_02387.bmp"
+      }, 
+      {
+        "time_seq": 25722.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725205\\image_02315.bmp"
+      }, 
+      {
+        "time_seq": 25722.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725205\\image_02315.bmp"
+      }, 
+      {
+        "time_seq": 26655.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725466\\image_02399.bmp"
+      }, 
+      {
+        "time_seq": 26655.555555555555, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725466\\image_02399.bmp"
+      }, 
+      {
+        "time_seq": 26633.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725721\\image_02397.bmp"
+      }, 
+      {
+        "time_seq": 26633.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725721\\image_02397.bmp"
+      }, 
+      {
+        "time_seq": 26411.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725997\\image_02377.bmp"
+      }, 
+      {
+        "time_seq": 26411.11111111111, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496725997\\image_02377.bmp"
+      }, 
+      {
+        "time_seq": 26588.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726266\\image_02393.bmp"
+      }, 
+      {
+        "time_seq": 26588.88888888889, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726266\\image_02393.bmp"
+      }, 
+      {
+        "time_seq": 26400.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726528\\image_02376.bmp"
+      }, 
+      {
+        "time_seq": 26400.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726528\\image_02376.bmp"
+      }, 
+      {
+        "time_seq": 25288.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726788\\image_02276.bmp"
+      }, 
+      {
+        "time_seq": 25288.88888888889, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496726788\\image_02276.bmp"
+      }, 
+      {
+        "time_seq": 26600.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727052\\image_02394.bmp"
+      }, 
+      {
+        "time_seq": 26600.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727052\\image_02394.bmp"
+      }, 
+      {
+        "time_seq": 25333.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727318\\image_02280.bmp"
+      }, 
+      {
+        "time_seq": 25333.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727318\\image_02280.bmp"
+      }, 
+      {
+        "time_seq": 26733.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727589\\image_02406.bmp"
+      }, 
+      {
+        "time_seq": 26733.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727589\\image_02406.bmp"
+      }, 
+      {
+        "time_seq": 25200.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727849\\image_02268.bmp"
+      }, 
+      {
+        "time_seq": 25200.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496727849\\image_02268.bmp"
+      }, 
+      {
+        "time_seq": 26544.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728121\\image_02389.bmp"
+      }, 
+      {
+        "time_seq": 26544.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728121\\image_02389.bmp"
+      }, 
+      {
+        "time_seq": 26544.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728386\\image_02389.bmp"
+      }, 
+      {
+        "time_seq": 26544.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728386\\image_02389.bmp"
+      }, 
+      {
+        "time_seq": 26466.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728640\\image_02382.bmp"
+      }, 
+      {
+        "time_seq": 26466.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728640\\image_02382.bmp"
+      }, 
+      {
+        "time_seq": 26400.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728888\\image_02376.bmp"
+      }, 
+      {
+        "time_seq": 26400.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496728888\\image_02376.bmp"
+      }, 
+      {
+        "time_seq": 26755.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729152\\image_02408.bmp"
+      }, 
+      {
+        "time_seq": 26755.555555555555, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729152\\image_02408.bmp"
+      }, 
+      {
+        "time_seq": 26522.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729420\\image_02387.bmp"
+      }, 
+      {
+        "time_seq": 26544.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729420\\image_02389.bmp"
+      }, 
+      {
+        "time_seq": 25022.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729699\\image_02252.bmp"
+      }, 
+      {
+        "time_seq": 25044.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_chrome_youtube_ail_type_in_search_field_1496729699\\image_02254.bmp"
+      }
+    ], 
+    "error_no": 0, 
+    "total_run_no": 30, 
+    "std_dev": 6.208538746015019, 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_chrome_youtube_ail_type_in_search_field_1496729699.mkv", 
+    "max_time": 22.222222222222626, 
+    "min_time": 5.555555555555555, 
+    "web_app_name": "youtube", 
+    "med_time": 5.555555555555555, 
+    "revision": ""
+  }, 
+  "test_firefox_youtube_ail_type_in_search_field": {
+    "total_time": 600.0000000000073, 
+    "time_list": [
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496729971", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496730258", 
+        "run_time": 11.11111111111677, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.11111111111677
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496730562", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496730853", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496731137", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496731422", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496731702", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496731986", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496732265", 
+        "run_time": 11.111111111113132, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111113132
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496732552", 
+        "run_time": 22.22222222221899, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.22222222221899
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496732833", 
+        "run_time": 66.66666666666424, 
+        "event_time": {
+          "start": 0, 
+          "end": 66.66666666666424
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496733122", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496733411", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496733682", 
+        "run_time": 11.111111111113132, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111113132
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496733974", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496734251", 
+        "run_time": 33.33333333333212, 
+        "event_time": {
+          "start": 0, 
+          "end": 33.33333333333212
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496734546", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496734831", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496735121", 
+        "run_time": 11.111111111113132, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111113132
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496735399", 
+        "run_time": 11.111111111113132, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111113132
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496735690", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496735967", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496736253", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496736544", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496736835", 
+        "run_time": 11.111111111113132, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111113132
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496737134", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496737425", 
+        "run_time": 11.111111111109494, 
+        "event_time": {
+          "start": 0, 
+          "end": 11.111111111109494
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496737705", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496738009", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }, 
+      {
+        "folder": "test_firefox_youtube_ail_type_in_search_field_1496738308", 
+        "run_time": 22.222222222222626, 
+        "event_time": {
+          "start": 0, 
+          "end": 22.222222222222626
+        }
+      }
+    ], 
+    "avg_time": 20.00000000000024, 
+    "description": null, 
+    "outlier": [], 
+    "std_dev": 10.50181250278297, 
+    "detail": [
+      {
+        "time_seq": 31400.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496729971\\image_02826.bmp"
+      }, 
+      {
+        "time_seq": 31411.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496729971\\image_02827.bmp"
+      }, 
+      {
+        "time_seq": 43922.22222222222, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730258\\image_03953.bmp"
+      }, 
+      {
+        "time_seq": 43933.333333333336, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730258\\image_03954.bmp"
+      }, 
+      {
+        "time_seq": 29511.11111111111, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730562\\image_02656.bmp"
+      }, 
+      {
+        "time_seq": 29533.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730562\\image_02658.bmp"
+      }, 
+      {
+        "time_seq": 29466.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730853\\image_02652.bmp"
+      }, 
+      {
+        "time_seq": 29488.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496730853\\image_02654.bmp"
+      }, 
+      {
+        "time_seq": 29644.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731137\\image_02668.bmp"
+      }, 
+      {
+        "time_seq": 29666.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731137\\image_02670.bmp"
+      }, 
+      {
+        "time_seq": 30022.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731422\\image_02702.bmp"
+      }, 
+      {
+        "time_seq": 30033.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731422\\image_02703.bmp"
+      }, 
+      {
+        "time_seq": 29533.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731702\\image_02658.bmp"
+      }, 
+      {
+        "time_seq": 29555.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731702\\image_02660.bmp"
+      }, 
+      {
+        "time_seq": 29444.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731986\\image_02650.bmp"
+      }, 
+      {
+        "time_seq": 29466.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496731986\\image_02652.bmp"
+      }, 
+      {
+        "time_seq": 29533.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732265\\image_02658.bmp"
+      }, 
+      {
+        "time_seq": 29544.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732265\\image_02659.bmp"
+      }, 
+      {
+        "time_seq": 29388.88888888889, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732552\\image_02645.bmp"
+      }, 
+      {
+        "time_seq": 29411.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732552\\image_02647.bmp"
+      }, 
+      {
+        "time_seq": 29644.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732833\\image_02668.bmp"
+      }, 
+      {
+        "time_seq": 29711.11111111111, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496732833\\image_02674.bmp"
+      }, 
+      {
+        "time_seq": 32300.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733122\\image_02907.bmp"
+      }, 
+      {
+        "time_seq": 32322.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733122\\image_02909.bmp"
+      }, 
+      {
+        "time_seq": 29566.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733411\\image_02661.bmp"
+      }, 
+      {
+        "time_seq": 29588.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733411\\image_02663.bmp"
+      }, 
+      {
+        "time_seq": 29377.777777777777, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733682\\image_02644.bmp"
+      }, 
+      {
+        "time_seq": 29388.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733682\\image_02645.bmp"
+      }, 
+      {
+        "time_seq": 29266.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733974\\image_02634.bmp"
+      }, 
+      {
+        "time_seq": 29288.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496733974\\image_02636.bmp"
+      }, 
+      {
+        "time_seq": 29500.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734251\\image_02655.bmp"
+      }, 
+      {
+        "time_seq": 29533.333333333332, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734251\\image_02658.bmp"
+      }, 
+      {
+        "time_seq": 29377.777777777777, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734546\\image_02644.bmp"
+      }, 
+      {
+        "time_seq": 29400.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734546\\image_02646.bmp"
+      }, 
+      {
+        "time_seq": 29155.555555555555, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734831\\image_02624.bmp"
+      }, 
+      {
+        "time_seq": 29177.777777777777, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496734831\\image_02626.bmp"
+      }, 
+      {
+        "time_seq": 29655.555555555555, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735121\\image_02669.bmp"
+      }, 
+      {
+        "time_seq": 29666.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735121\\image_02670.bmp"
+      }, 
+      {
+        "time_seq": 29711.11111111111, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735399\\image_02674.bmp"
+      }, 
+      {
+        "time_seq": 29722.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735399\\image_02675.bmp"
+      }, 
+      {
+        "time_seq": 29866.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735690\\image_02688.bmp"
+      }, 
+      {
+        "time_seq": 29877.777777777777, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735690\\image_02689.bmp"
+      }, 
+      {
+        "time_seq": 29477.777777777777, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735967\\image_02653.bmp"
+      }, 
+      {
+        "time_seq": 29500.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496735967\\image_02655.bmp"
+      }, 
+      {
+        "time_seq": 29633.333333333332, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736253\\image_02667.bmp"
+      }, 
+      {
+        "time_seq": 29655.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736253\\image_02669.bmp"
+      }, 
+      {
+        "time_seq": 29600.0, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736544\\image_02664.bmp"
+      }, 
+      {
+        "time_seq": 29622.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736544\\image_02666.bmp"
+      }, 
+      {
+        "time_seq": 30711.11111111111, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736835\\image_02764.bmp"
+      }, 
+      {
+        "time_seq": 30722.222222222223, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496736835\\image_02765.bmp"
+      }, 
+      {
+        "time_seq": 29544.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737134\\image_02659.bmp"
+      }, 
+      {
+        "time_seq": 29555.555555555555, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737134\\image_02660.bmp"
+      }, 
+      {
+        "time_seq": 29688.88888888889, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737425\\image_02672.bmp"
+      }, 
+      {
+        "time_seq": 29700.0, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737425\\image_02673.bmp"
+      }, 
+      {
+        "time_seq": 29344.444444444445, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737705\\image_02641.bmp"
+      }, 
+      {
+        "time_seq": 29366.666666666668, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496737705\\image_02643.bmp"
+      }, 
+      {
+        "time_seq": 29366.666666666668, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496738009\\image_02643.bmp"
+      }, 
+      {
+        "time_seq": 29388.88888888889, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496738009\\image_02645.bmp"
+      }, 
+      {
+        "time_seq": 29322.222222222223, 
+        "event": "start", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496738308\\image_02639.bmp"
+      }, 
+      {
+        "time_seq": 29344.444444444445, 
+        "event": "end", 
+        "file": "C:\\Users\\user\\Hasal\\output\\images\\output\\test_firefox_youtube_ail_type_in_search_field_1496738308\\image_02641.bmp"
+      }
+    ], 
+    "error_no": 0, 
+    "total_run_no": 30, 
+    "pkg_platform": "", 
+    "video_fp": "C:\\Users\\user\\Hasal\\output\\videos\\test_firefox_youtube_ail_type_in_search_field_1496738308.mkv", 
+    "max_time": 66.66666666666424, 
+    "min_time": 11.111111111109494, 
+    "web_app_name": "youtube", 
+    "med_time": 22.222222222222626, 
+    "revision": ""
+  }
+}
