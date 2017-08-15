@@ -1,0 +1,142 @@
+body,html {
+    margin:0;
+    padding:0;
+    background-color: #ffffff;
+}
+
+.date_right, .date_left {
+    height: 2.3vh;
+    width: 47.8vw;
+    font-size: 15px;
+    color: #000000;
+    margin-left: 0.6vw; margin-right: 0.6vw;
+}
+
+.date_left {
+    float: left;
+    text-align: left;
+}
+
+.date_right {
+    float: right;
+    text-align: left;
+}
+
+.content {
+    height: 100vh;
+    width: 98vw;
+}
+
+.row {
+}
+
+.after_block {
+    clear: both;
+}
+
+.data_block_left,.data_block_right {
+    height: 33.5vh;
+    width: 65vw;
+    margin-right: 0.4vw; margin-left: 0.4vw;
+    margin-top: 0.7vh; margin-bottom: 0.7vh;
+    background-color: #1a1a1a;
+}
+
+.data_block_left{
+    float: left;
+}
+
+.data_block_right{
+    float: right;
+}
+
+.footer {
+    height: 25vh;
+    width: 98vw;
+    background-color: #333333;
+}
+
+.footer_left, .footer_right{
+    height: 23.6vh;
+    margin-right: 0.4vw; margin-left: 0.4vw;
+    margin-top: 0.7vh; margin-bottom: 0.7vh;
+    background-color: #ffffff;
+}
+
+.footer_left {
+    float:left;
+    width: 58.2vw;
+}
+
+.footer_right {
+    float: right;
+    width: 38.2vw;
+    /*background-color: blue;*/
+}
+
+.gauge_left, .gauge_right {
+    width: 18.6vw;
+    height: 19.6vh;
+}
+
+.gauge_div {
+    width: 18.6vw;
+    height: 17.3vh;
+}
+
+.gauge_title {
+    font-size:19px;
+    color:#000000;
+    text-align: center;
+}
+
+.gauge_left {
+    float: left;
+    /*background-color: #bd1550;*/
+}
+
+.gauge_right {
+    float: left;
+    /*background-color: #75D701;*/
+}
+
+.title {
+    height: 2.5vh;
+    margin:0px;
+    padding: 5px;
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+}
+
+.chart {
+    width: 57vw;
+    height: 18.7vh;
+    margin-left: 0.6vw; margin-right: 0.6vw;
+    margin-bottom: 1vh; margin-top: 0.4vh;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.text {
+    height: 2.5vh;
+    margin:0px;
+
+    color: #000000;
+    font-size: 18px;
+    text-align: left;
+}
+
+.placeholder {
+    height: 2.5vh;
+    margin:0px;
+    font-style: italic;
+    color: #8a2eb8;
+    font-size: 18px;
+    text-align: left;
+}
+
+p {
+    margin: 0px;
+    padding: 0px;
+}
